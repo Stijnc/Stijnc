@@ -1,6 +1,5 @@
 ### Hi there, I'm Stijn Callebaut [s t ay n] 👋
 
-My name is pronounced [s t ay n]
 
 <!--
 **Stijnc/Stijnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
