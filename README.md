@@ -1,4 +1,4 @@
-### Hi there, I'm Stijn Callebaut👋
+### Hi there, I'm Stijn Callebaut [s t ay n] 👋
 
 My name is pronounced [s t ay n]
 
