@@ -1,5 +1,3 @@
-
-
 <p align="center" font-size=18px>
     <img src="https://callebaut.io/img/profile.png" alt="Stijn Callebaut profile image" height="150" width="150" align="center"/>
     👋 I'm <strong> Stijn [s t ay n] Callebaut </strong>, CTO at Dexmach. <br />
@@ -7,15 +5,15 @@
 </p>
 <p align="center">
     <a href="https://callebaut.io" target="_blank" rel="noopener noreferrer me" title="personal website" style="color:white;text-decoration : none;">
-        <img src="img/globe.svg">
+        <img src="https://img.icons8.com/bubbles/50/internet.png">
     </a>
-    <a href="https://callebaut.io" target="_blank" rel="noopener noreferrer me" title="personal website" style="color:white;text-decoration : none;">
-        <img src="img/globe.svg">
+    <a href="https://callebaut.io" target="_blank" rel="noopener noreferrer me" title="LinkedIn" style="color:white;text-decoration : none;">
+        <img src="https://img.icons8.com/bubbles/50/linkedin.png">
     </a>
-    <a href="https://callebaut.io" target="_blank" rel="noopener noreferrer me" title="personal website" style="color:white;text-decoration : none;">
-        <img src="img/book.svg">
+    <a href="https://callebaut.io" target="_blank" rel="noopener noreferrer me" title="Twitter" style="color:white;text-decoration : none;">
+        <img src="https://img.icons8.com/bubbles/50/twitter.png">
     </a>
-    <a href="https://callebaut.io" target="_blank" rel="noopener noreferrer me" title="personal website" style="color:white;text-decoration : none;">
-        <img src="img/book.svg">
+    <a href="https://callebaut.io" target="_blank" rel="noopener noreferrer me" title="Goodreads books" style="color:white;text-decoration : none;">
+        <img src="https://img.icons8.com/bubbles/50/ibooks.png">
     </a>
 </p>
