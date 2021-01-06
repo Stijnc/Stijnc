@@ -1,4 +1,5 @@
 <br />
+<center>
 <div class="profile" style="text-align:center;">
     <div class="profile_inner" style="padding: 10px 0; font-size: 18px">
         <img src="https://callebaut.io/img/profile.png" alt="Stijn Callebaut profile image" height="150" width="150" style="display:inline-table;border-radius:50%; pointer-events:none;"/>
@@ -35,3 +36,4 @@
         </div>
     </div>
 </div>
+</center>
