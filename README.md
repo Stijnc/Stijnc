@@ -1,5 +1,5 @@
 <p align="center" font-size=18px>
-    <img src="https://callebaut.io/img/profile.png" height="150" width="150" align="center"/>
+    <img src="img/profile_round.png" height="150" width="150" align="center"/>
     < br />
     👋 I'm <strong> Stijn [s t ay n] Callebaut </strong>, CTO at Dexmach. <br />
     I like running, the outdoors, a good book from time to time and lego. <br /> At <a href="https://www.dexmach.com">DexMach</a> I help put focus on the technology that matters, <br /> and I engage in customers cloud journeys to have direct feedback. <br />
