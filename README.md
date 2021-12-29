@@ -5,16 +5,7 @@
 </p>
 <p align="center">
     Let's Connect :coffee: <br />
-    <a href="https://callebaut.io" target="_blank" rel="noopener noreferrer me" title="personal website" style="color:white;text-decoration : none;">
+    <a href="https://callebaut.io" target="_blank" rel="noopener noreferrer me" title="my personal website" style="color:white;text-decoration : none;">
         <img src="https://img.icons8.com/bubbles/50/internet.png">
-    </a>
-    <a href="https://www.linkedin.com/in/stijncallebaut/" target="_blank" rel="noopener noreferrer me" title="LinkedIn" style="color:white;text-decoration : none;">
-        <img src="https://img.icons8.com/bubbles/50/linkedin.png">
-    </a>
-    <a href="https://twitter.com/stijnca" target="_blank" rel="noopener noreferrer me" title="Twitter" style="color:white;text-decoration : none;">
-        <img src="https://img.icons8.com/bubbles/50/twitter.png">
-    </a>
-    <a href="https://goodreads.com/stijnca" target="_blank" rel="noopener noreferrer me" title="Goodreads books" style="color:white;text-decoration : none;">
-        <img src="https://img.icons8.com/bubbles/50/ibooks.png">
     </a>
 </p>
